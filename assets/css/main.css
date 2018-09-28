@@ -1,11 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
 @import url("font-awesome.min.css");
 
-/*
-	Big Picture by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2227,11 +2222,7 @@ input, select, textarea {
 		}
 /*nisb*/
 	#nisb {
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/nisb.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back1.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2251,11 +2242,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/three1.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back3.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2264,22 +2251,14 @@ input, select, textarea {
 /* Two */
 
 	#two {
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/back2.png");
-=======
 		background: url("images/overlay.png"), url("../../images/back4.png");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 /*Three */
 	#three 	{
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/nisb2.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back5.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2287,11 +2266,7 @@ input, select, textarea {
 /* four */
 
 	#four {
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/back3.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back6.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2299,11 +2274,7 @@ input, select, textarea {
 
 /*five*/
     #five 	{
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/nisb1.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back7.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2311,11 +2282,7 @@ input, select, textarea {
 /* six */
 
 	#six {
-<<<<<<< HEAD
-		background: url("images/overlay.png"), url("../../images/TT-still.jpg");
-=======
 		background: url("images/overlay.png"), url("../../images/back8.jpg");
->>>>>>> 86fed104dade32e4e8f38a635f1fed159a06b03b
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
